@@ -53,16 +53,16 @@ function IsAlive(Player)
 end
 --// Loops \\--
 RunService.RenderStepped:connect(function()
-    roles = ReplicatedStorage:FindFirstChild("GetPlayerData", true):InvokeServer()
-    for i, v in pairs(roles) do
-      if v.Role == "Murderer" then
-        Murder = i
-      elseif v.Role == 'Sheriff' then
-        Sheriff = i
-      elseif v.Role == 'Hero' then
-        Hero = i
+		roles = ReplicatedStorage:FindFirstChild("GetPlayerData", true):InvokeServer()
+		for i, v in pairs(roles) do
+			if v.Role == "Murderer" then
+				Murder = i
+			elseif v.Role == 'Sheriff' then
+				Sheriff = i
+			elseif v.Role == 'Hero' then
+				Hero = i
 		end
-	end
-	CreateHighlight()
-	UpdateHighlights()
-end)
+		end
+		CreateHighlight()
+		UpdateHighlights()
+	end)
