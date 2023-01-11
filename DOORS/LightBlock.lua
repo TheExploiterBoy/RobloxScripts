@@ -1,0 +1,1 @@
+local cI=Instance.new("Tool")cI.Parent=game.Players.LocalPlayer.Backpack;cI.Name="Lighter"local cJ=Instance.new("Part")cJ.Parent=cI;cJ.Name="Handle"local cK=Instance.new("PointLight")cK.Parent=cJ;cK.Range=60;cK.Brightness=3 
