@@ -1,5 +1,8 @@
 --[[
 MADE BY Bolts And The3Bakers and to Andrew for undetection SUPPORT THEM NOT US
+MADE BY Bolts And The3Bakers and to Andrew for undetection
+MADE BY Bolts And The3Bakers and to Andrew for undetection
+MADE BY Bolts And The3Bakers and to Andrew for undetection
 ]]--
 
 getgenv().Wallbang = true
