@@ -1,0 +1,1 @@
+require(game.ReplicatedStorage.ClientModules.EntityModules.Shade).stuff(require(game.Players.LocalPlayer.PlayerGui.MainUI.Initiator.Main_Game),workspace.CurrentRooms[game.Players.LocalPlayer:GetAttribute("CurrentRoom")])
