@@ -4,7 +4,7 @@ and Thats All also we will rewrite the script to make it more functional & worki
 
 # Note From AdvanceFalling Team
 Some Script Will Not Work Because We Havent Tested Them Yet So Please Be Patience Until We Test The Script So It Will Be Working Later
-# Updates
+# Information About Updates 
 What Script We Added & Games
 ### Update V1
 ```
