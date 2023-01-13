@@ -1,28 +1,19 @@
-wait()
-spawn(function()
-local localPlayer = game:GetService("Players").LocalPlayer
+local LocalPlayer = game.Players.LocalPlayer
 
-local function booga()
-    local closestPlayer = nil
-  local shortestDistance = math.huge
-    for i, v in pairs(workspace.Ignore.Zombies:GetChildren()) do
-        if v:FindFirstChild("Humanoid") and v.Humanoid.Health ~= 0  and v:FindFirstChild("Head") then
-            local magnitude = (v.Head.Position - localPlayer.Character.Head.Position).magnitude
+getgenv().run_loopy_pls2 = true
 
-            if magnitude < shortestDistance then
-                closestPlayer = v
-                shortestDistance = magnitude
-            end
-        end
+function is_within_distance(zombie, dist)
+    if zombie:FindFirstChild("HumanoidRootPart") and LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("HumanoidRootPart") then
+        return (LocalPlayer.Character.HumanoidRootPart.Position - zombie.HumanoidRootPart.Position).Magnitude <= (dist or 30)
     end
-
-    return closestPlayer
+    return false
 end
 
-local args = {
-    [1] = booga().Humanoid
-}
 
-game:GetService("ReplicatedStorage").Framework.Remotes.KnifeHitbox:FireServer(unpack(args))
-end)
+while task.wait(.1) and run_loopy_pls2 do
+    for i,v in pairs(workspace.Ignore.Zombies:GetChildren()) do
+        if v and v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and is_within_distance(v, 80) then
+            game:GetService("ReplicatedStorage").Framework.Remotes.KnifeHitbox:FireServer(v.Humanoid)
+        end
+    end
 end
