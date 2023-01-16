@@ -10,7 +10,7 @@ The Updates Are For Scripts That We Added & Games Too So You Will Know Which Of 
 Also It Will Update Every 1 day (Example: V1 To V1.1) But If It Has Not Been 1 Day (Example: V1 -> Change The Update For V1 only)
 ### Update V1
 ```
-Added Michael Zombie
-Added Robeats
-Animal Simulator
+Added: Michael Zombie
+Added: Robeats
+Added: Animal Simulator
 ```
