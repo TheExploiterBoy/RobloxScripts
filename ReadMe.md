@@ -17,4 +17,5 @@ Added: Animal Simulator
 ### Update V1.1
 ```
 Added: Evade
+Added: KAT
 ```
