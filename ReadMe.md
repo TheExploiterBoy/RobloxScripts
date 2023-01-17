@@ -10,12 +10,14 @@ The Updates Are For Scripts That We Added & Games Too So You Will Know Which Of 
 Also It Will Update Every 1 day (Example: V1 To V1.1) But If It Has Not Been 1 Day (Example: V1 -> Change The Update For V1 only)
 ### Update V1
 ```
-Added: Michael Zombie 
-Added: Robeats 100% Working (Has been tested)
+Arsenal - 87% Working (Almost Tested all the script)
+DOORS - 100% Working (Has Been Tested but if its not working then the update made it not work)
+Added: Michael Zombie  
+Added: Robeats - 100% Working (Has been tested)
 Added: Animal Simulator
 ```
 ### Update V1.1
 ```
 Added: Evade
-Added: KAT 100% Working (Has been tested)
+Added: KAT - 100% Working (Has been tested)
 ```
