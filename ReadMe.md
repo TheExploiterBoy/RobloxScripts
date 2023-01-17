@@ -14,3 +14,7 @@ Added: Michael Zombie
 Added: Robeats
 Added: Animal Simulator
 ```
+### Update V1.1
+```
+Added: Evade
+```
