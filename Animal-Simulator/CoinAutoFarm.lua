@@ -1,3 +1,5 @@
+-- in development
+
 while Coins do
         wait(.1)
         game:GetService("ReplicatedStorage").Events.CoinEvent:FireServer()
