@@ -18,9 +18,9 @@ Added: Animal Simulator - (Has not been tested)
 ```
 ### Update V1.1
 ```
-Added: MM2 - 99% (Almost Tested all the Script)
+Added: MM2[Murder Mystery 2] - 99% (Almost Tested all the Script)
 Added: Evade - (Has not been tested)
-Added: KAT - 100% Working (Has been tested)
+Added: KAT[Knife Ability Test] - 100% Working (Has been tested)
 ```
 ### Update V1.2
 ```
