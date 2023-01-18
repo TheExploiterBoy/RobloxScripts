@@ -22,3 +22,7 @@ Added: MM2 - 99% (Almost Tested all the Script)
 Added: Evade - (Has not been tested)
 Added: KAT - 100% Working (Has been tested)
 ```
+### Update V1.2
+```
+Added: ToH[Tower of Hell]
+```
