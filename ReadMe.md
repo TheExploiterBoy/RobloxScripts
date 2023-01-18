@@ -24,5 +24,5 @@ Added: KAT[Knife Ability Test] - 100% Working (Has been tested)
 ```
 ### Update V1.2
 ```
-Added: ToH[Tower of Hell]
+Added: ToH[Tower of Hell] - 12% (Some Script Has Been Tested)
 ```
