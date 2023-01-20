@@ -26,3 +26,6 @@ Added: KAT[Knife Ability Test] - 100% Working (Has been tested)
 ```
 Added: ToH[Tower of Hell] - 12% (Some Script Has Been Tested)
 ```
+### Update V1.3
+```
+Added: Zombie-Attack - 100% Working(Has Been Tested)
