@@ -28,5 +28,6 @@ Added: ToH[Tower of Hell] - 12% (Some Script Has Been Tested)
 ```
 ### Update V1.3
 ```
-Added: Zombie-Attack - 100% Working(Has Been Tested)
+Added: Zombie-Attack - 100% Working (Has Been Tested)
+Added: jailbreak - 100% Working (Has Been Tested but if its not working then the update for the game made it not work)
 ```
